@@ -1,1 +1,1 @@
-# Reducci-nDeDimensiones
+# Reducción de dimensiones
