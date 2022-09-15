@@ -11,3 +11,16 @@ Links donde se encuentra la información de los datasets:
 - Fashion MNIST [LINK](https://www.researchgate.net/figure/Sample-images-from-Fashion-MNIST-dataset_fig2_342801790)
 
 - CIFAR10 [LINK](https://paperswithcode.com/dataset/cifar-10)
+
+## SVD
+info
+## PCA
+info
+## T-SNE
+info
+## UMAP
+info
+## MDS
+info
+## ISOMAP
+info
