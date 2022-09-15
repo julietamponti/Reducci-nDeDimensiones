@@ -28,5 +28,5 @@ En consencuencia, se podría ir más allá de quedarse con los r valores no nulo
 
 De todas formas, ¿qué tan chico puede ser ese valor de k?
 Dependiendo el valor de k que elijamos, vamos a lograr una mejor o peor aproximación de la matriz A, ahora tenemos que enfocarnos en que basarnos para seleccionar dicho valor. Para esto, se define el concepto de *energía* de una matriz de la siguiente manera: $Σ_{i=1}^{n} {σ_i}^2$$
-Al realizar una matriz de aproximación k, donde k es mejor que n, se captura un cierto porcentaje de la energía, la que se calcula como:$$α=\frac{Σ_{i=1}^{k} {σ_i}^2}{Σ_{i=1}^{n} {σ_i}^2}$
+Al realizar una matriz de aproximación k, donde k es mejor que n, se captura un cierto porcentaje de la energía, la que se calcula como: $$α=\frac{Σ_{i=1}^{k} {σ_i}^2}{Σ_{i=1}^{n} {σ_i}^2}$$
 Para ver la elergía acumulada, se suele realizar un lineplot. Esta técnica es de utilizada para detectar en qué puntos se producen "codos" en el gráfico y de esta forma buscar números particuales donde se pueden producir grandessaltos en el valor de la energía. 
