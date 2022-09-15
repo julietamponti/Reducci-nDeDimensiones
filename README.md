@@ -12,15 +12,15 @@ Links donde se encuentra la información de los datasets:
 
 - CIFAR10 [LINK](https://paperswithcode.com/dataset/cifar-10)
 
-## SVD
+#### SVD
 info
-## PCA
+#### PCA
 info
-## T-SNE
+#### T-SNE
 info
-## UMAP
+#### UMAP
 info
-## MDS
+#### MDS
 info
-## ISOMAP
+#### ISOMAP
 info
