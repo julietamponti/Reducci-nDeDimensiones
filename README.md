@@ -2,6 +2,14 @@
 
 Material utilizado en la clase de Organización de Datos, catedra Argerich, FIUBA.
 
+Los algoritmos vistos son:
+- SVD
+- PCA
+- T-SNE
+- UMAP
+- ISOMAP
+- MDS
+
 Links donde se encuentra la información de los datasets:
 
 - Blog para visualizar el funcionamiento de T-SNE [LINK](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -12,15 +20,3 @@ Links donde se encuentra la información de los datasets:
 
 - CIFAR10 [LINK](https://paperswithcode.com/dataset/cifar-10)
 
-### SVD
-info
-### PCA
-nfo
-### T-SNE
-info
-### UMAP
-info
-### MDS
-info
-### ISOMAP
-info
