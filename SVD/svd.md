@@ -24,7 +24,7 @@ Teniendo en cuenta lo dicho anteriormente, queda explicito, que solo se van a ut
 De SVD reducida podemos decir que una matriz A se puede representar de forma compacta, donde se van a utilizar los r valores signlares no nulos unicamente (diagonal de Σ), ya que son los unicos que aportan información, lo que nos permite descartar vectores de las matrices U y V.
 ¿A qué conclusión se puede llegar?
 Analizandolo, podemos pensar que como los valores de la matriz Σ se encuentrna ordenados de mayor a menor, entonces estos representan un grado de importancia de los datos.
-En consencuencia, se podría ir más allá de quedarse con los r valores no nulos, ya que se podría obtener una buena aproximación de la matriz A utilizando k valores singulares, siendo $k<r$.
+En consencuencia, se podría ir más allá de quedarse con los r valores no nulos, ya que se podría obtener una buena aproximación de la matriz A utilizando k valores singulares, siendo *k<r*.
 
 De todas formas, ¿qué tan chico puede ser ese valor de k?
 Dependiendo el valor de k que elijamos, vamos a lograr una mejor o peor aproximación de la matriz A, ahora tenemos que enfocarnos en que basarnos para seleccionar dicho valor. Para esto, se define el concepto de *energía* de una matriz de la siguiente manera: $$Σ_{i=1}^{n} {σ_i}^2$$
