@@ -2,10 +2,12 @@
 
 Material utilizado en la clase de Organización de Datos, catedra Argerich, FIUBA.
 
-Blog para visualizar el funcionamiento de T-SNE [LINK](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
+Links donde se encuentra la información de los datasets:
 
-MNIST [LINK](https://en.wikipedia.org/wiki/MNIST_database#/media/File:MnistExamples.png)
+- Blog para visualizar el funcionamiento de T-SNE [LINK](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 
-Fashion MNIST [LINK](https://www.researchgate.net/figure/Sample-images-from-Fashion-MNIST-dataset_fig2_342801790)
+- MNIST [LINK](https://en.wikipedia.org/wiki/MNIST_database#/media/File:MnistExamples.png)
 
-CIFAR10 [LINK](https://paperswithcode.com/dataset/cifar-10)
+- Fashion MNIST [LINK](https://www.researchgate.net/figure/Sample-images-from-Fashion-MNIST-dataset_fig2_342801790)
+
+- CIFAR10 [LINK](https://paperswithcode.com/dataset/cifar-10)
