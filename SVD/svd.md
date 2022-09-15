@@ -27,4 +27,4 @@ Analizandolo, podemos pensar que como los valores de la matriz Σ se encuentrna 
 En consencuencia, se podría ir más allá de quedarse con los r valores no nulos, ya que se podría obtener una buena aproximación de la matriz A utilizando k valores singulares, siendo $k<r$.
 
 De todas formas, ¿qué tan chico puede ser ese valor de k?
-Dependiendo el valor de k que elijamos, vamos a lograr una mejor o peor aproximación de la matriz A, ahora tenemos que enfocarnos en que basarnos para seleccionar dicho valor. Para esto, se define el concepto de *energía* de una matriz de la siguiente manera: $$ sum_{i=1}^{n} {σ_i}^2 $$
+Dependiendo el valor de k que elijamos, vamos a lograr una mejor o peor aproximación de la matriz A, ahora tenemos que enfocarnos en que basarnos para seleccionar dicho valor. Para esto, se define el concepto de *energía* de una matriz de la siguiente manera: $$sum_{i=1}^{n} {σ_i}^2$$
