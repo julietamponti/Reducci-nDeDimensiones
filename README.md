@@ -10,6 +10,8 @@ Los algoritmos vistos son:
 - ISOMAP
 - MDS
 
+[Link a la presentación](https://docs.google.com/presentation/d/13nXJo_JN5emp-S6AhA_1yGQR2TPG3WQYHvnZu78ZnqM/edit#slide=id.g1eb4dbc861d_0_870)
+
 Links donde se encuentra la información de los datasets:
 
 - Blog para visualizar el funcionamiento de T-SNE [LINK](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
